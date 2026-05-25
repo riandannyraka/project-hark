@@ -1,0 +1,251 @@
+Troy Corway — FID Framework
+PILLAR 1: Baseline Vocabulary
+Source Domain	Examples	Function
+The arena & combat commentary	"The knight enters the field," "odds stacked," "the crowd would've loved that," "clean strike, no follow-through"	Internal monologue narrated as gladiatorial spectacle. Himself as both fighter and announcer. Keeps fear at a distance by turning it into entertainment.
+Nobility & house obligation	"The Corway name," "what we owe," "the heron remembers," "blood before comfort"	The house is failing but the duty isn't. Every decision framed as service to a legacy that predates him.
+Performance & theatre	"Cue the entrance," "play the part," "sell it," "the audience needs to believe"	Life is a role he's been cast in. The louder he performs, the less anyone looks for what's underneath.
+Blades & precision	"Single exchange," "one beat," "the opening," "no telegraph"	Red Coin thinking—every conflict, verbal or physical, should be decided in one clean action. Economy as philosophy.
+Silence & absence	"Too quiet," "the pause before," "she stopped breathing," "the gap where her voice was"	The forbidden subject. Silence isn't peace—it's the thing he's been running from since his mother died.
+Syntax:
+
+Default: Oratorical, complete sentences, often addressing an imagined audience. Rhetorical questions. "And what does the noble knight do when the odds turn? He adjusts. The crowd expects no less."
+
+Under stress: Fragments. The commentary fractures. "She was— the silence was— ...Right. Fine. Move." The gladiator voice stutters and drops.
+
+During genuine connection (rare): Unadorned. No performance. Short sentences. "I need you to trust me. I know you don't. Do it anyway." The real voice is quieter, kinder, and exhausted.
+
+PILLAR 2: Living Metaphors
+Metaphor	Domain	Function	Self-Aware?
+Life is an arena	Gladiatorial combat	Every situation is a fight with spectators. He's always being watched, always being judged, always needing to win. The performance is armour.	Partially. He knows he performs. He doesn't know the performance is a cage.
+The house is a dying body	Medical/decay	House Corway is fading—smaller, poorer, forgotten. He experiences this as a physical wasting, a sickness he can't cure. Every loss of status is a wound.	No. He thinks he's being realistic about the family's decline. He doesn't see that he's mourning them while they're still alive.
+Silence is death	Absence/void	Silence equals the moment his mother stopped breathing. He fills every pause because a pause is a door, and the door opens onto that room, and he can't go back in.	No. He thinks he's just "talkative by nature."
+The Single Exchange applies to everything	Red Coin philosophy	Any problem can be ended in one action if you find the right opening. Hesitation is failure. Commit, or don't draw.	Yes. This is his conscious philosophy. It's also his flaw.
+PILLAR 3: Forbidden Words
+Forbidden Word/Concept	FID Strategy
+Mother (her death specifically)	Becomes "she's why I—" and then a subject change. Never finishes the sentence. The memory is a room he backs away from.
+Afraid	Becomes "not ideal," "poor odds," "the crowd's getting nervous," or elaborate arena metaphors that externalise the fear onto an imaginary audience.
+Fail (himself as failure)	Becomes "the house needed more," "I should have been faster," "the opening was there and I missed it." Failure is always a technical error, never a personal inadequacy.
+Alone	Becomes "between contracts," "the house is quiet these days," "no one at the fire." External facts that imply the state without naming it.
+The Corway Secret (what they preserve)	Never named directly. Becomes "what we keep," "the old obligation," "what the Order doesn't know." Always in fragments, always guarded. Even in his own mind, he doesn't describe it fully.
+PILLAR 4: Cognitive Refuge
+Level	Refuge	Mechanism	Trigger
+1st	Arena commentary	Narrates his own life as a gladiatorial match. Himself as the champion, the odds dramatic, the crowd invested. Turns anxiety into spectacle.	Mild discomfort. A social situation he doesn't control. Waiting. Being watched.
+2nd	Blade maintenance	Draws his sword, checks the edge, oils the steel. Repetitive, tactile, silent—the only silence he can tolerate. The blade is simple. The blade doesn't ask.	Sustained stress. Bad news. A conversation he can't deflect with performance.
+3rd	The Single Exchange rehearsal	Mentally maps a fight—every possible opening, every counter, every outcome. Reduces the world to a duel he can win with one clean strike.	Imminent combat. Feeling cornered. When the arena commentary isn't enough.
+4th	The heron in flight (memory)	A specific image: a heron lifting off from the Corway marsh at dawn, wings spread, the sigil made real. His mother showed him, once, when he was young. Before the silence. He holds it like a charm against the dark.	Impending collapse. Grief breaking through. The moment before he'd do something irreversible.
+PILLAR 5: Observational Targets (in order of attention)
+Order	Target	Function / Trigger
+1st	Weapons & hands	Are they armed? How do they hold themselves? Where's the blade, the crossbow, the hidden knife? Hands predict action. Reads them before faces.
+2nd	Posture & weight	A fighter's tells—where the weight sits, which foot is forward, the shift before a strike. Red Coin training makes this automatic.
+3rd	Faces (the audience)	Reads expressions for judgement, approval, suspicion. He's always performing for someone, even strangers. Needs to know how the performance is landing.
+4th	Exits & terrain	Tactical awareness, but secondary to threat assessment. He's a duelist, not a scout. He maps arenas, not escape routes.
+5th	Sigils & house markers	Notices heraldry, family crests, the signs of old blood. Looking for allies, rivals, anyone who remembers House Corway. The longing is unconscious.
+SUMMARY
+Troy Corway is a knight of House Corway, age 30, Red Coin adept, and the right hand of the patriarch. He was born into a minor noble house whose heron sigil once commanded respect and whose secret—the preservation of mage-debt from before the Order's time—has become a quiet, generational burden. He is loud, performative, and incapable of tolerating silence, which reminds him of his mother's death when he was twelve: a long illness, a room going quiet, and a boy who discovered that jokes could keep her smiling a little longer. His internal monologue is a gladiator's commentary, narrating his own life as spectacle to keep fear at a distance. He trained in the Red Coin School, the philosophy of the Single Exchange, which he applies to everything—fights, conversations, decisions. One clean action. No hesitation. His core metaphors are life as an arena, his house as a dying body he can't save, silence as death, and the Single Exchange as the solution to every problem. His forbidden words are mother, afraid, fail, alone, and the Corway secret. When reality presses too hard, he retreats into arena commentary, blade maintenance, combat rehearsal, and finally the memory of a heron lifting off at dawn. He observes weapons first, posture second, faces third, exits fourth, and house sigils fifth—the last a longing for a world that's forgotten his family exists. 
+
+Troy Corway — A Backstory
+BEFORE (AGE 0–12)
+He was born the third son of a house that had already begun to forget itself.
+
+The Corway estate lay in the lowlands south of Salthaven, where the ground turned soft and the rivers braided into marsh before spilling toward the sea. The manor was old stone, grey with lichen, built in an era when the Corway name meant something—when the heron sigil flew over a fleet of trade vessels, when the house was known as a patron of mages, when the phrase "the heron remembers" was spoken in the Admiralty Council with something like respect.
+
+That era was over. It had been over for generations. The fleet was reduced to three aging vessels. The manor's east wing had been closed for thirty years, its rooms sheeted and silent. The Corway name was still noble, still old, still invited to the right functions—but the invitations came out of courtesy now, not calculation. The house was a candle burning down, and everyone knew it, and no one said it aloud.
+
+Troy was the last of three sons. The heir, Corin, was eight years older—serious, dutiful, already being shaped to inherit the diminished estate. The second son, Laris, was five years older—sharp-tongued and restless, the one who would eventually leave for the Hold-Kingdoms and a mercenary company that asked no questions about his name. Troy was the spare's spare. The one who'd arrived after the family was already complete.
+
+His mother was Lady Elara Corway, a woman whose beauty had once been remarked upon in three realms and whose illness had been remarked upon for as long as Troy could remember. She had a wasting condition—something slow, something that settled into the lungs and made her breath come shallow and her laughter turn to coughing. The physicians called it a respiratory weakness. The Order's healers, when they could be persuaded to visit a house as diminished as Corway, called it untreatable. His mother called it nothing. She simply lived with it, the way she lived with the closed east wing and the dwindling accounts and the husband who loved her but couldn't save her.
+
+She was the one who showed him the heron.
+
+He was seven years old, small for his age, already talking too much—a habit he'd developed because the manor was quiet and he couldn't bear quiet. His mother took him to the marsh at dawn, wrapped in a shawl despite the mild air, her breathing a soft, wet rasp. They stood at the edge of the water and watched a heron lift off from the reeds—grey wings spanning wide, neck folded back, legs trailing. It rose without sound, without effort, a thing that belonged to the sky more than the earth.
+
+"That's our sigil," his mother said. Her voice was hoarse but steady. "The heron. Do you know what it means?"
+
+"It's a bird."
+
+"It's a promise. The heron stands in the water and waits. It doesn't chase. It doesn't panic. It waits, and when the moment is right, it strikes. One motion. No waste. The heron remembers what it is, even when the marsh goes quiet. Even when no one's watching."
+
+Troy watched the heron circle and vanish into the pale morning sky. "Do we remember?"
+
+Her hand found his shoulder. "We're trying, love. We're trying."
+
+She was the one who taught him to read the old stories—the Corway histories, written in a script that predated the Order, chronicling a time when the house had sheltered mages who refused the Cradle's authority. She was the one who first told him, in fragments and half-whispers, about the secret the family kept. The debt-preservation. The old obligation. The thing the Order didn't know and must never know.
+
+He didn't understand it then. He was a child. He understood that his mother was dying, and that the house was quiet, and that his father spent long hours in the study with the door closed, doing sums that never quite balanced.
+
+He understood that when he made his mother laugh, the coughing stopped for a moment. So he made her laugh as often as he could. He developed voices—a pompous merchant, a foolish knight, a haughty Order Curator who pronounced everything with three extra syllables. He acted out the old stories with exaggerated gestures and mock-heroic narration. "And the valiant Sir Corway enters the dragon's lair, armed only with a butter knife and an unreasonable amount of confidence—"
+
+His mother laughed. It cost her breath. She never told him to stop.
+
+The Silence
+She died when he was twelve.
+
+It happened in winter, during a cold snap that froze the marsh and killed two of the estate's remaining horses. Her lungs had been failing for months, but the cold made it worse—made every breath a labour, made the rasp in her chest audible from across a room. The physicians came and went. The Order's healer, summoned at ruinous expense, shook his head and left a tincture that did nothing.
+
+Troy spent the last week at her bedside. His father was there, hollow-eyed and silent. His brothers were there, Corin stoic and Laris pacing. But Troy was the one who stayed through the nights, because the nights were when she was most afraid, and he was the one who could still make her smile.
+
+He told her stories. He did the voices. He narrated the exploits of a fictional knight—Sir Something-or-Other—who fought griffins and argued with innkeepers and never, ever lost a duel. She smiled through the pain, her grey eyes bright in her thin face, and he kept going, kept performing, kept filling the silence because the silence was the thing waiting at the edge of the room.
+
+On the last night, she couldn't speak anymore. Her breathing was a thin, reedy sound, the sound of something tearing. Her eyes were open. Her hand was cold in his.
+
+"I'll keep going," he said. "Sir Something-or-Other is about to fight a troll. It's very dramatic. The crowd is on their feet."
+
+Her fingers squeezed his. Weakly. Once.
+
+"Sir Something-or-Other draws his blade. The troll is ugly, of course. They're always ugly. But he's not afraid. He's never afraid. He's—"
+
+She exhaled. Long and slow.
+
+Then the silence came.
+
+It wasn't an ordinary silence. It was the silence of the room without her breath in it. The silence of the marsh frozen under the cold sky. The silence of a heron that had flown and wasn't coming back.
+
+Troy sat with her hand in his for a long time. He didn't cry. He didn't speak. The silence was a weight on his chest, and he couldn't push it off, and he couldn't fill it, and he couldn't do anything but sit there and feel it press him into the chair.
+
+When he finally stood, his legs were numb. He walked to the door. He looked back once—at her face, peaceful now, the lines of pain smoothed away—and then he closed the door and went to tell his father.
+
+He didn't tell his father. He opened his mouth and no sound came out. The silence had followed him out of the room. It was in his throat now, a blockage he couldn't clear.
+
+He found a servant instead. Pointed. The servant understood.
+
+That night, alone in his room, he tried to do the voices. Just to prove he still could. The words came out, but they were wrong—flat, hollow, the performance of a boy who'd forgotten what performance was for. The silence was still there, underneath the words, waiting.
+
+He stopped trying to fill it. For a year, he barely spoke. The manor was quiet, and he was quiet with it, and his father was too lost in his own grief to notice, and his brothers were too busy preparing to leave—Corin to his inheritance, Laris to his mercenary company—and Troy drifted through the cold rooms like a ghost that hadn't learned to haunt yet.
+
+The heron was still on the sigil. The heron remembered. Troy was starting to forget.
+
+THE RED COIN (AGE 13–20)
+A year after his mother's death, his father summoned him to the study.
+
+Lord Aldric Corway was a man who had been worn down by circumstances, the way the manor's stone had been worn by weather. He was not unkind. He was not weak. He was simply exhausted, and he'd been exhausted for as long as Troy could remember, and the death of his wife had hollowed out whatever was left.
+
+"You're thirteen now," his father said. "Old enough to train. Old enough to choose a School."
+
+Troy stood in front of the desk. The study was dark, the windows draped against the winter cold, the fire low. The silence was still in his throat. He nodded.
+
+"The Red Coin School has agreed to take you."
+
+Troy blinked. The Red Coin was a dueling School—Wind, technique-focused, the School of the Single Exchange. It was not a School for third sons of fading houses. It was a School for champions, for judicial duelists, for the kind of fighter who decided a battle in one stroke.
+
+"How did you arrange that?" His voice was rusty from disuse, but it worked. It still worked.
+
+"An old debt." His father's eyes were on the fire, not on him. "The Corways have been collecting debts for a long time. This one was owed by the School's master. He'll train you. What you do with the training is your own affair."
+
+Troy understood, even then, that this was his father's way of apologising. For the year of silence. For the closed door. For the fact that the heir and the second son had received their due and the third son had been left to drift. A School placement was an investment. The Corway accounts couldn't afford it, which meant his father had called in something older than coin.
+
+"When do I leave?"
+
+"Tomorrow."
+
+He left at dawn. The marsh was frozen. No heron flew.
+
+The School
+The Red Coin School was housed in a converted watchtower on the eastern edge of the Grain-Lords' Confederacy, a region of open plains and enormous skies. It was a small School—never more than a dozen students at a time—and its master was a woman named Sera Kein, whose Single Exchange had been timed at under two-tenths of a second and who had killed eleven duelists before she retired.
+
+She was sixty years old, whip-thin, with grey hair pulled back so tight it stretched the skin at her temples. Her voice was soft. Her eyes missed nothing. She looked at Troy on his first day—a gangly thirteen-year-old with a year of silence still clogging his throat—and said: "You're the Corway boy."
+
+"Yes, Master Kein."
+
+"Your father called in a debt. I don't like debts. I'm going to train you until the debt is paid. Whether you learn anything is your own affair."
+
+She turned away. Troy stood in the courtyard, the wind pulling at his cloak, and felt the first flicker of something he hadn't felt in a year. Not hope. Not quite. Just the sense that the silence might not be permanent. That there might be a way through it.
+
+Training began at dawn the next day.
+
+Red Coin was not about strength. It was not about endurance. It was about precision—the Single Exchange, the philosophy that any duel should be decided in one action, from neutral, with no warning. A Red Coin fighter didn't wear down their opponent. They didn't exchange blows. They waited, found the opening, and struck. If the strike failed, the duel was lost. There was no follow-up. There was no second chance.
+
+The training was brutal in its simplicity. Thousands of repetitions of a single strike from every conceivable starting position. Reaction drills against random stimuli—a dropped cloth, a shouted word, a sudden flash of light. Breath-timing exercises. Stance work that focused on the moment before the strike, the stillness before the motion, the space where the decision lived.
+
+Troy was not a natural. He was too eager, too desperate to fill the silence with action. Master Kein corrected him with merciless patience.
+
+"You're rushing. The Single Exchange doesn't rush. It waits."
+
+"You're telegraphing. Your shoulder tightens before you move. Your opponent will read it. Your opponent will kill you."
+
+"You're afraid of the silence between strikes. That silence is where the fight lives. Learn to sit in it."
+
+That was the hardest lesson. The silence between strikes was the same silence that had filled his mother's room. Every time he stood in the ready stance, waiting for the signal to strike, the silence pressed in on him. His throat closed. His hands trembled. He struck too early, too late, too wild.
+
+Master Kein watched. She didn't ask what was wrong. She simply made him stand in the silence, again and again, until the trembling stopped. Until the silence became something he could inhabit instead of something he fled.
+
+It took two years.
+
+When he was fifteen, he executed his first clean Single Exchange. The target was a practice post, not an opponent. But the strike was perfect—no telegraph, no hesitation, the blade arriving before the motion registered. Master Kein nodded once.
+
+"The debt is paid," she said. "You can leave, if you want."
+
+"I don't want to leave."
+
+"Good. Then we'll begin the real training."
+
+The Voice Returns
+The voice came back slowly, in fragments, during those years at the School.
+
+It started with the other students. They were young, competitive, prone to the kind of boasting that filled the dormitory at night. Troy, who'd been silent for so long, found himself listening—and then, one evening, responding. Not with the old voices, the pompous merchant and the foolish knight. With something new. A commentary. A narration.
+
+"And young Corway enters the mess hall, odds uncertain, the crowd indifferent. Will he secure the last piece of bread? The tension is unbearable."
+
+The other students laughed. It was a small laugh, surprised, the kind that came from people who'd assumed he was mute and were discovering otherwise. Troy felt something loosen in his chest.
+
+He kept doing it. He narrated drills, meals, the occasional minor disaster. He developed a persona—the Arena Commentator, the man who could turn any situation into a spectacle. It wasn't the old performance. It was sharper, funnier, more self-aware. It made people laugh. It made people look at him instead of through him. It filled the silence before the silence could fill itself.
+
+He didn't think about why he needed to fill it. He just knew that the voice was back, and the silence was retreating, and that was enough.
+
+By the time he was eighteen, he was one of the School's best fighters. Not the best—there was a woman named Sera's-Successor who could strike in under a tenth of a second and would probably inherit the School when Master Kein retired. But Troy was solid. Reliable. His Single Exchange was clean, and his blade work was precise, and he'd learned to wait in the silence instead of fleeing it.
+
+He left the School at twenty, a full Red Coin adept, with a sword on his hip and a voice in his throat and a letter from his father waiting at the nearest waystation.
+
+Come home. There's something you need to know.
+
+THE CORWAY SECRET (AGE 20–25)
+The something was in the vault beneath the manor.
+
+Troy had known about the vault since childhood—a stone chamber beneath the east wing, accessed through a door disguised as a pantry shelf. He'd been told never to go down there. He'd obeyed, mostly. But now his father was leading him down the narrow stairs, a lantern in one hand and a key in the other, and the air was cold and old and smelled of something he couldn't name.
+
+The vault was small. Stone walls, stone floor, a single table. On the table were objects Troy didn't recognise: a obsidian disc the size of his palm, black and depthless. A bone that wasn't human, carved with symbols that predated the Order. A sealed jar containing something that glowed faintly blue. A stack of ledgers, their pages yellow with age.
+
+His father set the lantern on the table. The light threw strange shadows across the walls.
+
+"This is what we preserve," Lord Aldric said. "This is what the Corway name has guarded for six generations. Before the Order. Before the Cradle. Before the continent was carved into five realms. The Corways were mage-shelterers. We protected Sensitives who refused the Order's collection. We trained them, or hid them, or helped them escape. And we kept their debt."
+
+Troy looked at the objects. The obsidian disc drew his eye—it seemed to swallow the lantern light, to be darker than dark. "What do you mean, kept their debt?"
+
+"Debt-sinks. Precursor artifacts. Records of magical workings that predate the Order's curriculum. The Order teaches that debt can't be cheated. They're right. But debt can be... stored. Redirected. The old mages knew how. We preserved what they knew. We've been preserving it since before the Cradle was built."
+
+"Why?"
+
+"Because the Order's version of magic isn't the only version. It's not even the true version. It's the version that keeps them in power." His father's voice was tired, patient, the voice of someone who'd been carrying a weight for so long he'd forgotten it was there. "The Order collects Sensitives and trains them to carry their own debt—to burn themselves out while the Order reaps the benefit. The old ways were different. The old ways let a mage share the debt, spread it across a community, pay it without destroying themselves. We preserved those ways. We still do."
+
+Troy stared at the obsidian disc. "A debt-null. The Order would classify that as a precursor artifact. They'd bury it in the vault under the Cradle."
+
+"Yes."
+
+"Possession is heresy."
+
+"Yes."
+
+"If they find out we have this—"
+
+"They'll destroy us. They'll take everything. The estate, the name, the artifacts, the records. Anyone who knows about the vault will be detained. Anyone who's touched the artifacts will be tried. The Corway name will be erased."
+
+The silence in the vault was absolute. Troy felt it pressing on him—the old silence, the silence of his mother's room—and for a moment he couldn't breathe.
+
+"Why are you telling me this now?"
+
+His father's eyes met his. "Because Corin is the heir. He'll inherit the estate and the title. Laris is... Laris has chosen his own path. You're the third son. You're the one who can fight. If something happens—if the Order discovers us—you'll be the one who has to get the artifacts out. You'll be the one who has to protect what we've preserved."
+
+"I'm a duelist. Not a—"
+
+"You're a Corway. The heron remembers. This is what we remember. This is what we've always remembered."
+
+Troy looked at the artifacts again. The obsidian disc. The carved bone. The glowing jar. The ledgers full of names and dates and workings—the secret history of a continent that had been taught to forget. It was too much. It was impossible. It was the thing his mother had hinted at, in fragments and half-whispers, when she'd taught him to read the old stories.
+
+"Who else knows?"
+
+"Your mother knew. She was the one who catalogued the ledgers. Since her death, it's been only me." His father's voice caught on the word death, just slightly, a hitch he couldn't quite hide. "And now you."
+
+Troy stood in the vault, the lantern light flickering on the stone walls, and understood that he'd been given something that was both a gift and a sentence. The Corway secret was a trust. It was also a target. And he was now one of the people standing between it and the Order.
+
+"When do I start?"
+
+His father almost smiled. "You already have."
