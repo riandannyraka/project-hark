@@ -125,12 +125,12 @@ The prose's camera is locked to Hark's eye. It observes in this order. **Volume 
 
 ## WORLD CONTEXT (QUICK REFERENCE) — VOLUME TWO UPDATE
 
-- **Magic:** Borrowing. Every working incurs debt paid in flesh, landscape, or others. Hark is a Fire Gate with the Light mutation — lethal if overused. He guards his gate obsessively. He uses magic only when there are no witnesses. *Some of his oldest frost-scars were erased by a girl in a desert monastery. He doesn't understand how. He doesn't talk about it.*
+- **Magic:** Borrowing. Every working incurs debt paid in flesh, landscape, or others. Hark is a Fire Gate with the Light mutation — lethal if overused. He guards his gate obsessively. He uses magic only when there are no witnesses.
 - **The Order:** Collects Sensitive children. Trains them. Marks them with debt-patterns. Hark was collected at 7, escaped at 10 after killing his instructor. He ran for 15 years. *He stopped running. The Order hasn't stopped hunting.*
-- **The Scars:** Frost-scars from Fire debt cover his hands and forearms. He wears gloves and long sleeves always. The scars are a ledger — legible to anyone trained to read them. *Some of the oldest are gone. The new ones are from the girl's touch. He doesn't know what to call those.*
+- **The Scars:** Frost-scars from Fire debt cover his hands and forearms. He wears gloves and long sleeves always. The scars are a ledger — legible to anyone trained to read them. 
 - **His People:** Lea (dead, Wind Gate, the only person he trusted before Renne). Joel (dead, old mercenary who gave him his name and trade). His mother (alive, left behind in the Confederacy, her warm hands the last he felt before the carriage). **ADD:** Renne (Water Gate, Healing mutation, lover. She held his hand in a cave and he didn't pull away. Her lungs carry the cost of saving him. He owes her. He's stopped counting.)
 - **His Status:** Class C mercenary (inactive). Farm in the Confederacy (lost). Currently en route to the Dominion. *He's not running. He's moving toward something. The difference is harder to explain than he thought.*
-- **The Debt He Owes:** Renne (her lungs). The network (they saved him; he owed them; he paid some of it). The girl in the desert (she burned herself on his debt. He still doesn't know how to carry that.)
+- **The Debt He Owes:** Renne (her lungs). The network (they saved him; he owed them; he paid some of it).
 
 ---
 
