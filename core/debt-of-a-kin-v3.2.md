@@ -336,47 +336,9 @@ There are **no scars, brands, or tattoos** marking the FID rules. The only visib
 
 ---
 
-## 5. FULL CHAPTER MAP (SUMMARY)
+## 5. FULL CHAPTER MAP
+*refer to chapter-outlines.md*
 
-### Prologue: The Foundling House
-- Renne (17) surrenders her newborn daughter, Alexandria, to the Order's foundling house. She gives her name as "No one." Walks away into the rain.
-
-### Part One: The Board is Set (Chapters 1–9)
-- **Ch 1: The Contract** (Hark) – Hark takes a job to find "the Seed." FID rules established.
-- **Ch 2: The Scalpel** (Alexandria) – Alexandria introduced. Partnered with Orin.
-- **Ch 3: The Ghost** (Hark) – Hark hears rumours of a healer. Memory fragment of Renne's hands.
-- **Ch 4: The Healer** (Renne) – A full day in Renne's life: clinic, secret lessons, evening courier.
-- **Ch 5: The Seed's First Ally** (Renne) – Marta introduced. Their decade‑long partnership.
-- **Ch 6: The Hammer and the Ledger** (Multi) – All five Order teams introduced.
-- **Ch 7: The Soil Savant** (Hark) – Hark meets Elias. Elias gives him a coded message for Renne.
-- **Ch 8: The Crack** (Alexandria) – Alexandria notices inconsistencies in Order narratives.
-- **Ch 9: The Network's Blood** (Renne) – Lina arrives, injured. She draws a picture of a Silencer – Alexandria.
-
-### Part Two: Closing the Net (Chapters 10–20)
-- **Ch 10–11: The Sun‑Scorched Expanse** (Hark) – Hark crosses the desert, trades a debt‑null fragment.
-- **Ch 12–13: The Crown of Winter** (Hark) – Hold‑Kingdom lord betrays him. Hark escapes.
-- **Ch 14: The Healer's Dilemma** (Renne) – Renne decides to stay with Lina; evacuates the other children.
-- **Ch 15: The Grain‑Lords' Confederacy** (Hark & Renne flashback) – Hark returns to Elias. Elias tells of his son. Extended backstory: the river, the cottage. **No mention of pregnancy – Renne never told Hark.**
-- **Ch 16: The Quiet Death** (Hark) – Team 5 attacks. Hark kills Ellera and Calen.
-- **Ch 17: The Courier's Run** (Renne, through Marta) – Marta undertakes a dangerous courier run; finds a safehouse burned.
-- **Ch 18: The Maelstrom Admiral** (Hark & Alexandria alternating) – Hark negotiates passage; Admiral sells him out. Alexandria arrives at the same port.
-- **Ch 19: The Storm Front** (Hark) – Team 4 attacks. Hark kills Rask and Vyktor. Uncontrolled rogue storm is triggered. **Jax injured: broken ribs and deep gash.**
-- **Ch 20: The Ledger‑Keepers' Discovery** (Orin) – Twin Savants identify Alexandria as Renne's daughter. Orin sits with the knowledge.
-
-### Part Three: Convergence (Chapters 21–30)
-- **Ch 21: The Safehouse Under Siege** (Renne) – Renne evacuates Lina and others. Stays behind.
-- **Ch 22: The Reunion** (Hark & Renne) – Hark reaches the ruined safehouse. Reunion after fifteen years.
-- **Ch 23: The Daughter's Shadow** (Alexandria) – Alexandria watches from the perimeter.
-- **Ch 24: The Storm** (Multi) – Rogue storm forces everyone into the submerged grotto.
-- **Ch 25: The Grotto** (Multi) – Team 2 breaches. Hark kills Grey Kestrel. Alexandria kills the Blood‑mage. Hark collapses.
-- **Ch 26: The Choice** (Alexandria) – Alexandria uses her medical kit to save Hark. He enters a coma. She deserts.
-- **Ch 27: The Aftermath** (Renne) – Renne tends to Hark's comatose body. Remembers the night he "fixed himself" by the river.
-- **Ch 28: The Lies We Keep** (Orin) – Orin falsifies Renne's debt report. Notes Hark as "comatose, location unknown."
-- **Ch 29: The Horizon** (Alexandria) – Boat scene. Hark unconscious between Renne and Alexandria. **Lina is present – she refused to leave Renne and was found waiting at the shoreline after the storm.**
-- **Ch 30: The Seed's New Soil** (Renne) – New safehouse (abandoned windmill). Lina draws a picture of Alexandria. Renne places Hark's dried flower on the windowsill.
-
-### Epilogue: The Savant's Handwriting (Orin)
-- Orin closes the ledger. His handwriting trembles for the first time in fifty years. He writes a private note: *"Let the ledger burn."*
 
 ---
 
