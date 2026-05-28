@@ -1,4 +1,4 @@
-# PROJECT USELESS-01: STORY BIBLE
+# DEBT OF A KIN: STORY BIBLE
 
 ## Version 3.0 (Final Expanded Edition)
 
