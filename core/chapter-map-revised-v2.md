@@ -15,7 +15,7 @@
 **Corrected travel sequence (Chapters 10–13, v2):**
 - Grain-Lords' Confederacy (East) → **Hold-Kingdoms / Crown of Winter** (North) → **Sun-Scorched Expanse Approach** (descent from mountains, west) → **Sun-Scorched Expanse Interior** (Dominion desert).
 
-The Maelstrom League (South) and island grotto sequence (Chapters 18–27) remain geographically correct — the southern archipelago is reached by ship from any coastal realm and is logistically plausible from any preceding location.
+**Why Hark goes to the Dominion at all:** Ch.7 (written canon) establishes that the Order fears Hark more than Renne — he is a known entity in their ledger with a Light mutation and two Order kills on his record. He cannot walk directly east to Renne without risking leading surveillance to her. The Dominion detour is countersurveillance: go the wrong direction, burn any tail in a foreign jurisdiction where the Order has limited reach, confirm the path is clean, then return. This justification is grounded in canon text from Ch.7 and is made explicit in Ch.10's scene breakdown (v2). See CHANGE 3 below and the Chapter 7 annotation in Canon Preserved.
 
 ### CHANGE 2 — Hark's Magic Constraint (Chapters 10 onward)
 
@@ -28,7 +28,25 @@ The Maelstrom League (South) and island grotto sequence (Chapters 18–27) remai
 
 **FID implication:** Hark's internal monologue around magic shifts from suppression of desire to suppression of awareness. He does not permit himself to notice the environmental reservoir until he has no other option. When he does use it, the FID reads it as a transaction: *"Cost. Paid. Done. Move."* Never glory, never relief — only debt.
 
-### CHANGE 3 — Chapter Renumbering and Restructuring
+### CHANGE 3 — Justification for the Dominion Detour (Chapter 7 annotation + Chapter 10 scene breakdown)
+
+**Gap identified in v2:** Chapter 7 (written canon) ends with Elias handing Hark Renne's location — *"two days east, near the old-growth forest."* Nothing in the chapter map previously explained why Hark then travels north-west into the Hold-Kingdoms and the Dominion desert for several weeks rather than going directly to her.
+
+**Root cause of the gap:** The chapter map treated the Dominion leg as a plot beat (fragment trade, desert crossing, dying mage) without grounding it in character logic. The written chapters already contain all the material needed to justify the detour — it simply wasn't drawn forward into the chapter ten outline.
+
+**Justification (sourced from canon text):**
+
+1. In Ch.7 (written), Elias tells Hark: *"The Order fears you more than they fear her."* This is not flattery — it is a tactical assessment. Elias has read Hark's debt; he knows Hark was collected, escaped, and has killed Order agents. Hark is a known actor. He is *already being watched* in the East. Going directly to Renne means leading surveillance to her location.
+
+2. In Ch.3 (chapter map), caravan gossip established that five Order teams are active in the Confederacy. Hark knows the East is saturated.
+
+3. Hark's own Unorthodox Path instinct — the Pragmatic Retreat — dictates breaking contact before approaching a high-value target. He won't go to Renne with a possible tail.
+
+4. **FID layer:** He will never say the other reason. The other reason is that he doesn't know what he'll do when he gets there and the rules don't cover it. The tactical justification is real. It is also convenient.
+
+**Implementation:** A short scene beat is added to Chapter 10's opening that makes Hark's countersurveillance reasoning explicit — rendered in his transactional FID, not named as avoidance. A corresponding annotation is added to the Canon Preserved section under Chapter 7.
+
+### CHANGE 4 — Chapter Renumbering and Restructuring
 
 - Old Chapter 10 (desert) becomes the **second** Hold-Kingdoms chapter — renumbered and relocated.
 - Old Chapters 11–13 are restructured to accommodate correct geography. A new Chapter 10 covers the Hold-Kingdoms approach and mountain crossing. Chapters 11–13 cover desert entry, desert crossing, and the port/ship leg.
@@ -51,6 +69,18 @@ Events of `000.md` through `008.md` are treated as inviolable. `009.md` is inacc
 - Fighting style: Unorthodox Path (Joel's teaching + survival-honed). No magic in any written chapter.
 - Light mutation: has been dormant since the forest escape at age 10 — he has used environmental draws sparsely in extremis for years but *never* his innate Light, which burned out his reservoir on the night of Lea's death and has never fully recovered.
 
+**Chapter 7 annotation — the detour seed (canon-grounded):**
+
+The written text of Ch.7 contains two facts that together mandate the Dominion detour, though neither is made explicit in the v1/v2 chapter map:
+
+*Fact 1:* Elias reads Hark's debt and says: *"The Order fears you more than they fear her."* This is not praise. It is an assessment that Hark is a **known and flagged entity** in the Order's ledger — a collected mage who escaped, killed two agents, and has been operating in their territory for two decades. He is more legible to them than Renne is. An Insensitive is invisible to magical scans; a mage with frost-scar debt at the Light mutation is not. He cannot be Afflicted, but he can be *physically followed*.
+
+*Fact 2:* Elias tells him the **eastern path is clear** — meaning the road network, not the safehouse itself. Five Order teams are active in the Confederacy. Going directly east to Renne with any possibility of a tail means leading the hunt to her door.
+
+**Conclusion in Hark's FID:** He has her location. He cannot use it yet. He has to become invisible first — go somewhere no tail would follow (the Dominion is desert, Order-light, and opposite to everything he's supposed to want), burn anyone who might be watching, and only turn back when the pattern is clean. This is the Pragmatic Retreat. This is what Joel taught him. *"Run a losing fight. Come back later with more friends."* In this case, the friend he comes back with is the absence of a tail.
+
+He will not name the second reason, which is that "two days east" has been folded in his coat for a week and he hasn't moved toward it yet and the rules don't have a word for that particular stillness.
+
 ---
 
 ## PART TWO: CLOSING THE NET (Chapters 10–20)
@@ -67,14 +97,31 @@ Events of `000.md` through `008.md` are treated as inviolable. `009.md` is inacc
 
 **Scene breakdown:**
 
-1. Hark joins a northbound trader caravan at the base of the first pass. Observational hierarchy: hands (one guard's knuckles too clean for his stated profession — bounty hunter or Order auxiliary), exits (the pass narrows to a single file above — bad geometry), weapons (short blades, nothing ranged).
-2. Three days' climb. Hark listens to caravan gossip: the Order has five teams active in the East. One team destroyed. Rumour of a storm-mage incident at a port. He catalogues without reacting. *(Fear → "bad odds. Too many teeth on this job.")*
-3. Night camp in a mountain shelter — volcanic vents nearby, earth-heat rising from the rock (environmental reservoir present; witnesses: all eight caravan members awake — **Condition 2 not met; magic unavailable**). Hark does not even consciously register the heat. He sharpens his knife.
-4. The clean-knuckled guard approaches him at the fire. Asks questions that are slightly too pointed about his destination. Hark gives a cover story (salt merchant, passing through to the Dominion). The man's hands stay still. Too still.
-5. Pre-dawn: Hark wakes to find the guard gone and his pack rifled — debt-null fragments untouched but his cache of coin moved (someone counted it). He waits. Decides this is a watcher, not a hunter. *"Odds: they sent word ahead, not back. Means someone on the western side is expecting a report."*
-6. Departs the caravan at the first fork. Continues alone toward the western descent. Snow fills his tracks.
+1. **The decision — explicit and FID-rendered.** One week out from Elias's farm, Hark is camped alone in the Confederacy's northern edge. He has Renne's location — Elias's paper, folded, in the inner pocket of his coat. He has not moved east. He has been moving north. The chapter opens mid-motion, but the internal accounting has already been done and the map outlines it cleanly:
 
-**FID note:** Hark notices the geothermal vent's warmth only as *"a patch of ground worth sleeping on."* No magical analysis. The suppression is complete.
+   He can't go to her yet. Elias said the eastern *path* is clear, not the *destination*. Five Order teams were active in the Confederacy when he arrived; he has confirmed two are still operational from caravan talk on the road. An Insensitive passes through magical scans as nothing. But Hark is not an Insensitive. He is a collected mage with twenty years of frost-scar debt, a Light mutation on his ledger, and two Order agents killed in a forest when he was ten. The Order has a file on him. Files don't expire. If anyone has been watching him work his way east through Elias's network, going directly to Renne now is the same as handing her over with a note.
+
+   *(Internal, FID: "Two days east. He'd had the paper for seven days. Bad arithmetic. The job wasn't 'find her.' The job was 'get to her without the people trying to kill her watching you walk through the door.' He needed to go the wrong direction first. A long way wrong.")*
+
+   The Dominion is west. Order presence is sparse there — Dominion law doesn't invite Order jurisdiction easily, and the desert terrain makes magical tracking expensive. If he surfaces in the Dominion, moves visibly, draws whatever watcher might be following him across two mountain ranges into a foreign jurisdiction, and then vanishes back east — any tail will either break off or expose itself. This is the Pragmatic Retreat. Joel's lesson. Run a losing fight; come back when the table is different.
+
+   He is not avoiding her. He is protecting the route.
+
+   He will not examine the other thing, which is that the paper has been in his coat for seven days and the rules don't have a word for what keeps him from opening it.
+
+2. Hark joins a northbound trader caravan at the base of the first mountain pass. Observational hierarchy: hands (one guard's knuckles too clean for his stated profession — bounty hunter or Order auxiliary, not a merchant's man), exits (the pass narrows to single file above — bad geometry for anyone following), weapons (short blades, nothing ranged).
+
+3. Three days' climb. Hark listens to caravan gossip without contributing: the Order has five teams active in the East. One team destroyed — he knows which one, doesn't say. Rumour of a storm-mage incident at a southern port. He catalogues. *(Fear → "bad odds. Too many teeth. Stay north.")*
+
+4. Night camp in a mountain shelter — volcanic vents nearby, earth-heat rising from the rock (environmental reservoir present; witnesses: all eight caravan members awake — **Condition 2 not met; magic unavailable**). Hark does not consciously register the heat. He sharpens his knife.
+
+5. The clean-knuckled guard approaches him at the fire. Questions slightly too pointed about his destination and his employer. Hark gives a cover story (salt merchant, Dominion-bound). The man's hands stay still. Too still. *(Internal: "Not a merchant's guard. Too patient. Order auxiliary or a bounty collector working the network.")*
+
+6. Pre-dawn: Hark wakes to find the guard gone and his pack rifled — debt-null fragments untouched, coin counted and replaced. A professional inventory, not a theft. *He's not here to rob me. He's here to read me.* Decides: watcher, not hunter. *"They sent word ahead, not back. Someone on the western side is expecting a description."* — which confirms the detour logic. There IS a tail or the infrastructure of one. Going east now would walk it directly to Renne.
+
+7. Departs caravan at the first fork. Continues alone, northwest, toward the Dominion descent. Snow fills his tracks.
+
+**FID note:** Hark notices the geothermal vent's warmth only as *"a patch of ground worth sleeping on."* No magical analysis. The suppression is complete. The paper stays in his coat, unread.
 
 **Closing line:** *"The Dominion was on the other side of the mountain. So was everything else he'd been avoiding."*
 
@@ -186,11 +233,13 @@ Events of `000.md` through `008.md` are treated as inviolable. `009.md` is inacc
 **Setting:** Elias's farm, Confederacy / River cottage flashback.  
 **Temporal anchor:** Two days after Chapter 13 (Hark has crossed back through the desert border, heading toward Renne's location via intelligence from Elias; Elias's farm is the Confederacy waypoint).
 
-**[v2 — unchanged from v1 Ch.15; renumbered only.]**
+**[v2 — unchanged from v1 Ch.15; renumbered only. One scene beat added to open Present section to close the detour loop.]**
 
 **Scene breakdown — Present:**
 
-- Hark returns to Elias. Elias provides Renne's location.
+- Hark returns to Elias. This is the second visit — the first (Ch.7) was for the location. This one is for confirmation that he hasn't been followed here. He has been gone five weeks, crossed the Hold-Kingdoms twice, surfaced in the Dominion, and come back north-east on a different road through a different caravan network. If anyone was on him, they're gone or they've shown themselves. He has seen neither. The path is clean. He can use Renne's location now.
+- *(Internal, brief: "Five weeks. Longer than it needed to be. Paper's still in his coat.")*
+- Elias gives the updated position — the safehouse has moved once since Ch.7; Elias has current intelligence.
 - Hark: *"I'll kill them for you."* — referring to the Order.
 - Elias: shows the boy's ledger again. Says nothing.
 
