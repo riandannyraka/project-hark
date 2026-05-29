@@ -46,14 +46,37 @@
 
 **Implementation:** A short scene beat is added to Chapter 10's opening that makes Hark's countersurveillance reasoning explicit — rendered in his transactional FID, not named as avoidance. A corresponding annotation is added to the Canon Preserved section under Chapter 7.
 
-### CHANGE 4 — Chapter Renumbering and Restructuring
+### CHANGE 5 — Team 4 Pursues Hark into the Dominion (Chapters 12–13 revised; Chapter 19 revised as rematch)
 
-- Old Chapter 10 (desert) becomes the **second** Hold-Kingdoms chapter — renumbered and relocated.
-- Old Chapters 11–13 are restructured to accommodate correct geography. A new Chapter 10 covers the Hold-Kingdoms approach and mountain crossing. Chapters 11–13 cover desert entry, desert crossing, and the port/ship leg.
-- All subsequent chapter numbers shift accordingly. Chapters 14–30 and Epilogue are substantially preserved in content but renumbered by +1 to accommodate the new structure. Their scene content is unchanged unless noted.
-- **Net result:** The volume now contains **31 numbered chapters** (10–30 original numbering preserved, with one chapter split into two). The Epilogue is unchanged.
+**Gap identified:** The countersurveillance detour was justified in v2 but produced no narrative payoff. Hark goes west, crosses a desert, and the tail he was running from never materialises. The detour is structurally inert.
 
-> **Note for the writer:** Old Ch.10 desert scenes are redistributed to new Ch.12–13. Old Ch.12 (Hold-Kingdoms hall, raven) becomes new Ch.10. Old Ch.13 (escape) becomes new Ch.11. Chapters 14 onward shift by +1 in chapter number only; content is otherwise identical unless marked **[v2 edit]**.
+**Fix:** Team 4 (Vyktor, Storm/Lightning mutation + Rask, Earth mutation) follows Hark's trail into the Dominion. This is consistent with their canonical role — per the Ch.6 outline they are the *flush* team: *"We flush. Others kill."* Chasing a known mage across two mountain ranges into foreign territory to drive him back toward the net is precisely their function.
+
+**Team 4 desert dynamics (why this works mechanically):**
+
+- Vyktor is a Storm/Lightning mage. His primary environmental source is atmospheric charge. The Dominion desert under clear skies is his single worst possible terrain — flat, dry, ionosphere calm, the Gilded Eye inland sea too far west to provide humidity for storm-building. He is reduced to his internal reservoir in the desert interior.
+- Rask is an Earth mage. The desert is actually strong ground for him — ancient stone, deep mineral layers, geothermal heat. He is dangerous here. This creates asymmetry within Team 4 and forces Hark to handle them differently.
+- Hark's Fire Gate in the desert has its richest possible environmental reservoir: sun-baked stone holding accumulated thermal debt, geothermal seepage, ambient heat. The desert is the one terrain where Hark's dormant gate has genuine environmental access — and the desert's emptiness means witnesses are rare or absent.
+- **The dramatic inversion:** Team 4 chose the desert to corner him in terrain they believe will strip him of cover. They do not know he is a Fire Gate mage. To them he is an Insensitive — the frozen-knuckled ghost who killed two Order agents with a knife. They expect a terrain disadvantage fight against a blade-fighter. What they get is an Insensitive who turns out not to be insensitive at all, in the one environment where his dormant gate can briefly breathe.
+
+**Outcome (not a clean victory):** Hark survives. Rask is killed. Vyktor escapes — badly burned, storm-ability depleted, furious. He does not file a report. Filing a report means admitting he lost to a "dead" mage in a desert with no witnesses. Instead he hunts Hark personally, which is why he appears again at the Maelstrom port in Ch.19. **Ch.19 becomes a rematch** — Vyktor burning his internal reservoir dry to kill the man who humiliated him, on terrain (a storm-lashed pier) that finally favours him. His recklessness in Ch.19 (building a full storm rather than a controlled arrest) now has a character reason.
+
+**Chapter restructuring:**
+- Old Ch.13 (dying mage + magic instance 1) is split: the dying mage scene migrates into the *close* of Ch.12 (desert entry), where it fits as a coda. Ch.13 is now entirely the Team 4 confrontation — a single sustained chapter with the desert fight and its aftermath.
+- Magic instance 1 (involuntary thermal reflex from dying mage) is demoted: it becomes the *trigger* that exposes Hark to Vyktor's detection, giving Team 4 a reason to locate him precisely. A dormant Fire Gate that briefly resonates leaves a small heat-signature — not enough for a normal mage to read, but Vyktor's Storm mutation makes him sensitive to thermal anomalies in calm air.
+- Magic instance 2 (desert fight proper, new) replaces the old dying-mage magic instance in the tracking log. The grotto (Ch.25) and the storm pier (Ch.19 reflex) remain as instances 2 and 3. Total magic count: still 3 instances across 21+ chapters. Magic constraint holds.
+- Ch.19 gains a paragraph establishing the rematch dynamic and Vyktor's personal motivation.
+
+### CHANGE 6 — Chapter Count Update
+
+- A new Chapter 10 covers the Hold-Kingdoms approach and mountain crossing.
+- Chapter 11 covers the western descent and lord's hall.
+- Chapter 12 covers desert entry and closes with the dying mage coda (magic trigger / thermal resonance).
+- Chapter 13 is now the Team 4 desert confrontation (new full chapter).
+- Chapters 14–30 and Epilogue shift by +1 in chapter number from v1; content unchanged unless marked **[v2 edit]**.
+- **Net result:** The volume now contains **32 numbered chapters** (10–30 original numbering, with two additional chapters added in the desert arc). The Epilogue is unchanged.
+
+> **Note for the writer:** Ch.12 now carries both the desert entry material and the dying mage scene as a coda. Ch.13 is entirely new — the Team 4 desert fight. Ch.19 is revised to establish the rematch context.
 
 ---
 
@@ -153,55 +176,100 @@ He will not name the second reason, which is that "two days east" has been folde
 
 ---
 
-### CHAPTER 12: THE SUN-SCORCHED EXPANSE (Entry)
+### CHAPTER 12: THE SUN-SCORCHED EXPANSE (Entry / The Dying Mage)
 
 **POV:** Hark  
-**Setting:** Edge of the Kemet-Sun Dominion — desert border. High noon.  
+**Setting:** Edge of the Kemet-Sun Dominion — desert border, then desert interior. High noon into night.  
 **Temporal anchor:** Two days after Chapter 11.
 
-**[v2 — formerly old Ch.10, relocated and revised for correct geographical placement after mountain crossing. Magic constraint applied.]**
+**[v2 — Ch.12 now carries both the desert entry material and the dying mage scene as a closing coda. The dying mage's death triggers a small involuntary thermal resonance in Hark — the event that allows Vyktor to locate him precisely in Ch.13. This replaces the old split across two chapters.]**
 
 **Opening line:** *"The desert was the first place he'd ever felt genuinely invisible."*
 
-**Scene breakdown:**
+**Scene breakdown — Desert Entry (noon):**
 
-1. Hark enters the Dominion's outer territory. The Dominion's sand-scribes track mage-debt via sand and heat residue — but Insensitives register as nothing. He walks through a scribe patrol. They scan him. Nothing. He is let through. *(Internal: "One advantage to burning out your reservoir when you're ten.")*
-2. He trades a debt-null fragment for water and desert cloth at a border waystation. Demonstrates fragment functioning: the waystationer uses it to mask a hidden Sensitive child working quietly in the back room — a child sewing, who has been inadvertently drawing warmth from the station's hearth. The fragment nulls the debt signature. The child doesn't know what just happened. *(Planted thematic thread: the fragments protect the unaware.)*
+1. Hark enters the Dominion's outer territory. Sand-scribes track mage-debt via heat residue in the stone and sand — but Insensitives register as nothing. He walks through a scribe patrol. They scan him. Nothing. He passes. *(Internal: "One advantage to burning out your reservoir when you're ten.")*
+2. He trades a debt-null fragment for water and desert cloth at a border waystation. The fragment functioning: the waystationer uses it to mask a Sensitive child in the back room who has been inadvertently drawing warmth from the station's hearth. The child doesn't know. The fragment nulls it. *(Planted thematic thread: fragments protect the unaware.)*
 3. Hark notices the child. Does not react. Counts exits. Continues.
-4. *(Environmental reservoir: desert sun-baked stone, extreme ambient heat — Fire Gate's richest possible environment. Witnesses: waystationer, hidden child, two other travellers. **Condition 2 not met.** He does not reach for it. Does not register it as available.)*
-5. An Order patrol sweeps the way station. Full scan. Hark stands still and lets the patrol read him. *(Internal: "Bad odds. Hand stayed on knife. But odds said: nothing to find.")*  The patrol moves on.
-6. Hark exits. Counts water supply: three days if careful, five if not moving hard.
+4. *(Environmental reservoir: sun-baked stone, extreme ambient heat — Fire Gate's richest terrain. Witnesses present throughout. **Condition 2 not met.** He does not reach for it. Does not register it.)*
+5. An Order patrol sweeps the waystation. Full scan. Hark holds still. The patrol reads: nothing. They move on. *(Internal: "Bad odds. Hand on knife. But odds said: nothing to find.")*
+6. He exits with three days' water, moving deeper into the interior. The plan: surface visibly enough to register on any network watcher's record, then go dark and double back east. He needs to be *seen* here before he disappears.
 
-**FID note:** The desert heat is noted only as a tactical resource (*"No shade on the patrol's approach angle — they'll be sun-blind on the western sweep"*), never as magic.
+**Scene breakdown — Night (desert interior coda):**
 
-**Closing line:** *"The desert didn't care about his scars. Only water."*
+7. Hark camps at a rock outcropping. The desert cold at night is punishing — the day's borrowed heat radiating upward, leaving behind raw negative equilibrium. He does not light a fire.
+8. He finds a dying Water-mage at the base of the outcropping. The man is desiccated from within — his own debt collected in his own flesh, a Water-mage who ran out of water. He begs. Hark assesses the supply and the margin. He does not share. *(Internal: "Arithmetic. Not cruelty. Arithmetic.")*
+9. The mage dies. His environmental Water-draw collapses on death — an uncontrolled release of his reservoir's remaining debt back into the stone. A small surge. Not dangerous. But the sudden temperature shift as moisture meets heat-saturated rock causes a thermal spike in the stone directly beneath Hark's hands.
+10. **MAGIC INSTANCE 1 — the trigger (involuntary, unwanted, no witnesses present):** Hark's Fire Gate resonates with the thermal spike. Not his choice — a reflex from a decade of training, the channel in his frost-scars activating before his conscious mind can clamp it. His fingers warm. The scars pulse faintly. He shuts it down in under three seconds, pressing his gloved hands to the cold sand. But the brief resonance leaves a thermal anomaly in the air above the outcropping — a flare of heat from a clear-sky source, in the desert, at night.
+11. *(Internal: "That was a mistake. Catalogued. Don't repeat.")*
+
+    To an ordinary mage or sand-scribe this signature would read as geothermal noise. To Vyktor — whose Storm mutation makes him exquisitely sensitive to thermal differentials in the atmosphere, the anomalies that seed weather — it reads as something that does not belong here. He has been tracking a ghost with frost-scar debt and a dormant Fire Gate for two days. He just found him.
+
+12. Hark takes the dead mage's debt-null fragments. He leaves the body. He moves on, not knowing he has just lit a beacon.
+13. Memory fragment: Renne pressing water to his lips, sixteen years ago. *(Want → "could've been worse.")*
+
+**FID note on magic instance:** *"Heat. Then cold. Then the familiar ledger-weight in his knuckles. He'd been a mage for three seconds. Longer than he should have been."* He does not know the resonance was visible. That ignorance is the setup for Ch.13.
+
+**Closing line:** *"He walked on. He didn't look back at the body. He should have looked up."*
 
 ---
 
-### CHAPTER 13: THE SUN-SCORCHED EXPANSE (Night / The Dying Mage)
+### CHAPTER 13: THE SUN-SCORCHED EXPANSE (Team 4 / The Desert Hunt)
 
 **POV:** Hark  
-**Setting:** Desert interior. Night.  
-**Temporal anchor:** Same night as Chapter 12.
+**Setting:** Desert interior — rock formations, dry riverbed, open flats. Pre-dawn into dawn.  
+**Temporal anchor:** Night into morning after Chapter 12.
 
-**[v2 — formerly old Ch.11. Magic constraint applied. This is the first of three environmental-draw instances in the volume.]**
+**[v2 — new chapter. Team 4 (Vyktor + Rask) corners Hark in the desert. This is the payoff of the countersurveillance detour: the tail materialises, the terrain fight Hark planned for arrives, and the result is a partial victory that plants Vyktor's personal grievance for Ch.19.]**
 
-**Opening line:** *"The desert at night was a different animal. Colder than it had any right to be. Mean about it, too."*
+**Opening line:** *"He heard them before he saw them. That was the only thing that went right."*
 
 **Scene breakdown:**
 
-1. Hark makes camp in a rock outcropping. Still air. No wind. The desert cold at night is vicious — the borrowed-heat debt of the day's sun-baked rock dissipating upward, leaving behind a negative equilibrium. *(This is established as environmental-debt physics, not magic.)*
-2. He finds a dying Water-mage at the base of the outcropping. The man is desiccated — his own debt, paid in his own flesh. He begs for water. Hark assesses: injury, supply, risk, mission. His water is three days at minimum. The mage is hours from death regardless.
-3. He does not share the water. *(Internal: "Arithmetic. Not cruelty. Arithmetic.")*
-4. The mage dies. As he dies, his environmental Water-draw collapses — an uncontrolled moisture release, the man's reservoir releasing its remaining debt back into the stone. A small environmental surge: not dangerous, but real.
-5. **MAGIC INSTANCE 1 (environmental, desperate, witnessed by no one, no Order present):** The mage's discharge triggers the surrounding stone's thermal signature — the heat of the day locked in the rock releases suddenly as the moisture cools it. Hark's Fire Gate resonates involuntarily, an old reflex from training. He doesn't choose it — his body reads the thermal surge and redirects a thread of it through his frost-scar channels without his conscious instruction. His fingers warm for the first time in days. The frost-scars along his knuckles pulse faintly, then settle. He pulls back immediately — clamps the gate, exhales, presses his gloved hands against the rock.
-6. *(Internal: "That was a mistake. Catalogued. Not repeated.")*
-7. He takes the mage's debt-null fragments. He leaves the body. He walks on.
-8. Memory fragment: Renne pressing water to his lips, sixteen years ago. *(Want → "could've been worse.")*
+1. **Approach — Hark reads the trap.** Pre-dawn, moving through a dry riverbed between two rock formations. He stops. Something wrong in the air — too still, wrong still, the quality of absence that means someone is managing it. A Silence-adjacent skill, or simply held breath at scale. He counts: two heat-signatures in the dark (his heat-sight reflex from training — not magic, a trained perceptual habit, as the debt-framework describes for Fire Gate body sense at base level). Two. One north, one south. They have him flanked.
+   *(Internal: "Flanked in a dry riverbed. Exits: upstream — open flat, no cover. Downstream — narrows between rock. Terrain: loose shale, nothing to grip. Weapons: knife, secondary blade, three fragments. Against: unknown mages. Bad odds.")*
 
-**FID note on the magic instance:** There is no triumph, no relief. The FID reads: *"Heat. Then cold. Then the familiar ledger-weight settling across his knuckles. He'd been a mage for thirty seconds. The debt reminded him what that cost."* He does not examine what happened. He counts the extra fragments. He walks.
+2. **Vyktor announces.** His voice comes from the northern ridge — no megaphone needed, the desert amplifies sound perfectly. *"You don't have to die here. Tell us where the Seed is and we walk away."* Hark recognises the tell: the offer is a delay, not a negotiation. It gives Rask time to close the southern angle.
+   - Hark does not answer. He is already reading the terrain.
 
-**Closing line:** *"He walked on. He didn't look back at the body."*
+3. **Rask's opening move (Earth, strong ground).** Rask is on the southern ridge. He reaches into the desert stone — this is genuinely his best terrain. The dry riverbed shudders. Stone fragments rise, a slow projectile curtain that forces Hark toward the north-facing flat. This is the flush: Rask drives, Vyktor waits at the open end.
+   - Hark does not run north. He runs *into* the southern rockface — toward Rask, which is wrong, which is why it works. Broken Ground School: deny the enemy the push they planned.
+
+4. **Rask close-quarters (Earth mage without range advantage).** Rask is not a close fighter. His Earth working requires contact with ground — effective at range, less so when someone is right in front of him on rock he hasn't had time to read. Hark uses the shale slope: the loose stone gives under Rask's feet when he tries to root himself. Two exchanges. Rask is heavier, slower, and cannot get purchase. Hark takes a glancing impact from a stone shard across his left shoulder — deep bruise, not structural damage — and gets his knife into Rask's side on the third pass. Not immediately fatal but deep. Rask goes down and cannot rise.
+
+5. **Vyktor from above.** With Rask down, Vyktor drops off the northern ridge onto the flat. This is where the terrain calculus shifts. On the flat, he has clear air — and even in the desert, a Storm mage with a full internal reservoir can build a localised discharge without an atmospheric source. It is costly, but it is possible. He begins pulling from himself: the air around him crackles, hair standing.
+   - Hark cannot close the distance. The flat is open. There is no cover. Vyktor will simply arc him before he covers half the ground.
+   - Hark reads the options. There are three. Two will kill him. *(Internal: "Last Breath. The Turn. Find the thing he doesn't expect.")*
+
+6. **MAGIC INSTANCE 2 — environmental draw (desperate, calculated, no witnesses conscious):** The sun is coming up. The desert stone around them has been absorbing heat for months — the Dominion's high-summer accumulated thermal debt is enormous, uncontrolled, and Hark is standing on it. Rask is down but not dead; Vyktor is the only conscious witness. Hark waits for the one moment Vyktor's attention is on the arc he is building — the mage's guard split between offense and reserve — and then makes the choice he does not make. Opens the gate. Not to the Light. Not to his internal reservoir, which is spent and wrong. To the stone. An environmental draw from a Fire Gate's richest source: he pulls accumulated heat through his frost-scar channels, which scream with it — new lines threading up his forearms — and converts it not into a bolt (he cannot; base-state Fire requires more control than he currently has access to) but into a thermal shock wave. The air between them superheats. Not a targeted strike. A burst. Like opening an oven door.
+
+   **The mechanics:** The heat wave is unfocused, wide, unrefined — as debt-framework describes base-state environmental Fire with no precision. It doesn't cut. It doesn't burn cleanly. It hits Vyktor like a wall of air from a forge at full blast: his internal discharge destabilises, the arc misfires wide, his skin blisters on his arms where the heat caught him. He goes down on one knee.
+
+   **The cost:** Hark's frost-scars burn. New damage threading toward his elbows — months of debt compressed into seconds. His internal temperature spikes (Light mutation's thermal echo, even dormant). His vision swims. He is on the wrong side of his own working.
+
+7. **Kill and escape (mundane).** Hark does not press a magical advantage because he does not have one anymore — the draw depleted him and the fever is rising. He closes the distance on foot while Vyktor is still on one knee, knife ready. Vyktor is faster than he should be: arc still crackling, burned arms, he manages a discharge that clips Hark across the ribs — not a full strike, but enough to knock him sideways. Hark hits the ground, rolls, gets up. Vyktor is standing. Neither has a clean kill.
+
+   *(Internal: "Run the losing fight.")*
+
+   Hark runs downstream into the narrowing rock passage — too narrow for Vyktor to get a clean arc. Vyktor does not follow immediately: he is checking Rask. This is the moment Hark needs.
+
+8. **Vyktor's decision — no report.** Vyktor looks at Rask (alive, barely), at the direction Hark vanished, at his own burned arms. He does not call for Order support. He does not file a report. He picks up Rask and walks north toward the Dominion's border station.
+
+   What he tells the border station: two rogue mages, ambush, internal wounds. He does not name Hark. He does not name the Fire Gate reading he got in the thermal burst. He does not name the failure. *"Filing a report means explaining why I let a dead man walk away from me in a desert I chose."* He has a different plan: find where the ghost goes next, and be there waiting with the terrain in his favour. Hark is heading east. The eastern ports go south. He knows someone at the Maelstrom harbour.
+
+9. **Aftermath — Hark in the rock passage.** Hark sits with his back against stone, breathing through the fever-heat. His gloves are gone — burned off. The frost-scars on his forearms are new, livid, different from the old knuckle lines — these are environmental draw scars, which look different from internal-use scars to anyone who knows the difference. He pulls his sleeves down. Counts: water low, knife intact, two fragments remaining, one broken rib possibly (Vyktor's arc), fever manageable, forearms numb.
+
+   He did not kill both of them. He did not get clean. He was seen using magic in the field by a Storm mage who can read thermal signatures. He needs to assume the route east is now compromised — Vyktor knows he is alive and knows his gate. He needs a different way back.
+
+   *(Internal: "Not clean. Catalogued. The route east just got more expensive.")*
+
+   The paper is still in his coat. He is still going.
+
+**FID note on magic:** The burst is described from inside the cost, not the power. *"Something enormous, borrowed without permission. The stone paid for it. He paid for it on the way out. His arms were going to hurt for weeks."* He does not name it a victory. He names it a transaction that went over-budget.
+
+**Closing line:** *"He counted what he had left. Less than before. Still enough."*
+
+---
 
 ---
 
@@ -329,21 +397,29 @@ He will not name the second reason, which is that "two days east" has been folde
 **Setting:** Pier. Storm-lashed.  
 **Temporal anchor:** Same day, late afternoon.
 
-**[v2 — MAJOR REVISION. Magic constraint applied. This is the second of three environmental-draw instances.]**
+**[v2 — MAJOR REVISION. Magic constraint applied. Rematch context added: Vyktor is here personally, off-ledger, burning himself out for revenge. This is the second of three environmental-draw instances.]**
 
 **Opening line:** *"The Admiral's hospitality turned out to have a price he hadn't been quoted."*
 
 **Scene breakdown:**
 
-1. The Admiral's trap springs. Team 4 (Vyktor, Lightning/Storm mutation, and Rask, Earth mutation) corners Hark on the pier. The storm from offshore is visible — Vyktor has been building it for hours, drawing from atmospheric charge.
-2. **Kill 1 (Rask):** Hark uses Rask's own earth-working against him. Rask is pulling the pier planking apart from beneath — standard Broken Ground counter: let the terrain move, read where it lands, exploit the moment of commitment. When Rask's attention is entirely on the pier structure (maximum debt-draw, guard down per `debt-framework.md` Section 6), Hark closes distance. Knife into the base of the skull. No magic.
-3. **Kill 2 (Vyktor) — setup:** Vyktor is a Storm/Lightning mutation. He is drawing from massive atmospheric charge; his internal guard is split between offense and maintaining the storm. Per debt-framework: *"A mage who casts without guarding is fully potent but fully exposed."* He expects a mage to respond with magic. Hark does not. He rolls under the lightning arc (mundane), gets inside Vyktor's effective range.
-4. **MAGIC INSTANCE 2 (environmental, desperate, no conscious witnesses):** Vyktor collapses his remaining storm-charge into a point-blank discharge that would kill any ordinary fighter. There is no physical cover. Hark's Fire Gate resonates with the residual thermal energy of Vyktor's dying Light-debt — the storm contained stolen heat, and as Vyktor draws it inward for the killing strike, a pocket of uncontrolled environmental heat is released in the space between them. Hark's body, responding without conscious decision (same reflex as Ch.13), absorbs the thermal surge — not the lightning, but the heat-mantle around it — and uses it to push off the dock at an angle Vyktor doesn't expect. **Not a spell. Not deliberate. A reflex.** He ends up behind Vyktor. Knife to the eye.
-5. **Immediate concealment:** The pier is burning from the storm. Any debt-signature from Hark's momentary draw is swamped by Vyktor's own enormous residue. He is clean — or as clean as the chaos allows.
-6. **Storm rules established:** Vyktor's dying Light-debt residue imprints on the ambient environment — including on Hark's frost-scar channels, which are old Light conduits and resonate with it. This is not sentient. It is a weather scar. The storm will follow the resonance.
-7. Hark escapes with wounded sailor Jax (broken ribs, deep gash — pulled from the water instinctively, no reason he could name). **Jax's debt planted:** he flinches at the name "Varro." Refuses to explain.
+1. **Rematch context (short beat, Hark's internal).** When Vyktor steps onto the pier, Hark recognises the posture before the face: burned forearms, hands held slightly away from the sides — a man who has been living in pain since the last time they met. Rask is not present: still recovering from the desert, not operational. Vyktor came alone. Not a sanctioned arrest — no partner, no cordon, no reporting structure. He came on his own time. *"He crossed two mountain ranges and a sea to finish it. That's not professionalism. That's something else."* Hark does not name what it is. He recognises it.
 
-**FID note on magic instance:** *"Something in his chest had moved without his permission. Old channel. Old debt. He hadn't opened the door. The door had pushed itself open when the house caught fire."* He does not examine it further. He wraps his knuckles. He counts Jax's ribs.
+2. The Admiral's trap springs — he provided the location to the highest bidder. Vyktor expected a flanked arrest with the Admiral's hired blades as support. What he has instead is a single mage, off-ledger, on a pier, in a building storm. The storm: Vyktor has been building it for hours, drawing from maritime atmospheric charge. This is finally his terrain — coastal air, moisture-rich, the Maelstrom's perpetual weather feeding him everything the desert starved him of. He is strong here. He is also reckless, drawing faster than a sanctioned mission would allow, because this is not a sanctioned mission.
+
+3. **Kill (the Admiral's hired blade — terrain):** The local bruiser the Admiral posted as back-up is not a mage. Hark uses the pier structure: Broken Ground School. The man goes into the water.
+
+4. **Vyktor alone — setup:** Vyktor's internal guard is split between maintaining the storm overhead and preparing the killing discharge. Per debt-framework: fully potent, fully exposed. He expects Hark to have nothing magical to offer — he watched the desert cost him burned forearms and a spent reservoir. He expects a blade-fighter with a knife and spite. He does not expect Hark to come straight at him across the open pier as if the magic is not there at all.
+
+5. **MAGIC INSTANCE 2 (environmental, desperate, no conscious witnesses):** Vyktor collapses his remaining storm-charge into a point-blank discharge. No cover, no mundane dodge. But Vyktor's storm contains enormous thermal debt from the heated maritime air drawn for hours — and as the discharge fires, the storm's thermal residue releases. Hark's Fire Gate resonates with it: same channel, same reflex as Ch.12, but this time extended a half-second — he absorbs the heat-mantle around the arc rather than the lightning itself, and the thermal push carries him to an angle Vyktor cannot correct for before the discharge has already passed. Knife to the eye. **Not a spell. A reflex extended by a fraction of intent.** The distinction matters to Hark. It matters because intent is where debt compounds.
+
+6. **Immediate concealment:** The pier is burning from the collapsed storm. Any debt-signature from Hark's draw is swamped by Vyktor's own enormous residue. He is clean enough.
+
+7. **Storm rules established:** Vyktor's dying storm-charge imprints on Hark's frost-scar channels — old Light conduits that resonate with the debt's thermal component. Not sentient. A weather scar. The storm will follow the resonance north.
+
+8. Hark escapes with wounded sailor Jax (broken ribs, deep gash — pulled from the water, no reason Hark names). **Jax's debt planted:** he flinches at the name "Varro." Refuses to explain.
+
+**FID note:** *"Vyktor had crossed two mountain ranges and a sea to finish something. He hadn't finished it. Neither had Hark. The difference was: Hark was still standing."* He does not examine the rest of it. He wraps his knuckles. He counts Jax's ribs.
 
 **Closing line:** *"The storm followed them. It would follow them all the way to the island."*
 
